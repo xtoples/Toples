@@ -7,7 +7,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is **Redho Rizkiansyah** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :credit_card: My full name is **Redho Rizkiansyah** <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e478k1673h64b8rxgknw02uxy1p1op5l2sfufyzytln&rid=200.webp&ct=g" width="400" align="right"/>
 - :school: I'm currently 1rd high school at **SMK - Putra Anda**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **North Sumatera, Indonesia**
