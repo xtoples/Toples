@@ -11,7 +11,7 @@
 - :school: I'm currently 1rd high school at **SMK Putra Anda**.
 - :books: My major is **RPL - Software Engineering**.
 - :earth_asia: I'm living now in **Binjai (North Sumatera), Indonesia**.
-- :sweat_smile: I'm a newbie in coding, know **Java** and **Kotlin** language. Now I'm focus on learning **Software Development**.
+- :sweat_smile: I'm a newbie in coding, know **Java** and others language. Now I'm focus on learning **Software Development**.
 - :monocle_face: I'm interested in **coding, sleeping, and watching anime.**
 - :sunglasses: My quote is ***"The biggest enemy is yourself, and you can learn from mistakes"*** .
 
