@@ -4,17 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I%27m+Toples+%3C3;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
-
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
-
-- :credit_card: My pseudonym is **Toples**. <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e478k1673h64b8rxgknw02uxy1p1op5l2sfufyzytln&rid=200.webp&ct=g" width="400" align="right"/>
-- :school: I'm currently 1rd high school at **SMK Putra Anda**.
-- :books: My major is **RPL - Software Engineering**.
-- :earth_asia: I'm living now in **Binjai (North Sumatera), Indonesia**.
-- :sweat_smile: I'm a newbie in coding, know **Java** and others language. Now I'm focus on learning **Software Development**.
-- :monocle_face: I'm interested in **coding, sleeping, and watching anime.**
-- :sunglasses: My quote is ***"The biggest enemy is yourself, and you can learn from mistakes"*** .
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
