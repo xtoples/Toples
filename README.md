@@ -1,12 +1,14 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/xtoples?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/xtoples?style=social"> &nbsp;&nbsp; <img alt="Toples | Count Views" src="https://komarev.com/ghpvc/?username=xtoples" />
 
+<img src="https://discord.c99.nl/widget/theme-2/911819939726368769.png"/>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I%27m+Toples+%3C3;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My pseudonym is **Toples**. <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e478k1673h64b8rxgknw02uxy1p1op5l2sfufyzytln&rid=200.webp&ct=g" width="400" align="right"/>
+- :credit_card: My name is **Toples**. <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e478k1673h64b8rxgknw02uxy1p1op5l2sfufyzytln&rid=200.webp&ct=g" width="400" align="right"/>
 - :earth_asia: I'm living now in **Indonesia**.
 - :sweat_smile: I'm a newbie in coding, know **Java** and others language.
 - :monocle_face: I'm interested in **coding, sleeping, and watching anime.**
