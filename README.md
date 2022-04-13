@@ -31,7 +31,6 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=xtoples&theme=react-dark"/>
 </div>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
   <a href="https://profile-summary-for-github.herokuapp.com/user/xtoples" target="_blank">
     <img align="center" alt="Toples | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
